@@ -1,8 +1,9 @@
 # SoftUni Digital
+<br/>
 
 <a href="https://digital.softuni.bg/curriculum" rel="Courses">![SoftUni Digital Logo][logo]<a/>
 
-[logo]: https://github.com/AniSoft/ "SoftUniDigital"
+[logo]: https://github.com/AniSoft/SoftUniDigital/blob/main/Pictures/SoftUni-Digital-Logo.png "SoftUniDigital"
 
 ## Courses and Certificates
 
